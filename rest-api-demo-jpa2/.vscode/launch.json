@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestApiDemoJpa2Application<rest-api-demo-jpa2>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sprk.rest_api_demo_jpa2.RestApiDemoJpa2Application",
+            "projectName": "rest-api-demo-jpa2",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
